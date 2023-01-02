@@ -1,2 +1,2 @@
 # CODE
-This repository contains code snippets, programs etc.
+This repository contains code snippets, programs, utilities etc.
